@@ -14,7 +14,7 @@ This is a pixel art generator that I created using JavaScript. It is an open-sou
 
 To use the Pixelart generator, you will need to have a web browser that supports JavaScript. Once you have installed a web browser, you can open the Pixelart generator in your browser.
 
-The Pixelart generator has a simple interface that makes it easy to use. To create a pixel art image, you will need to select the size of the image, choose the colors that you want to use, and then click on the "Generate" button. The Pixelart generator will then generate a pixel art image based on your selections.
+The Pixelart generator has a simple interface that makes it easy to use. To create a pixel art image, you will need to select the size of the grid, choose the colors that you want to use, and then click on the "Generate" button. The Pixelart generator will then generate a pixel art image based on your selections.
 
 You can save your pixel art images to your computer by clicking on the "Save" button. The Pixelart generator will save the image as a PNG file.
 
@@ -28,4 +28,4 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-This project was created by [Your Name].
+This project was created by San-77x.
