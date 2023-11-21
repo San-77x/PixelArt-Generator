@@ -1,6 +1,6 @@
 # PixelArt Generator
 
-![Alt text](image.png)
+<img src='image.png' style="height: 400px;"/>
 
 This is a pixel art generator that I created using JavaScript. It is an open-source project that you can use to create your own pixel art images.
 
