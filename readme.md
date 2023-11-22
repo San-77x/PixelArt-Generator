@@ -1,4 +1,4 @@
-# PixelArt Generator
+# PixelArt Generator ( Currently on development Mode)
 
 <img src='image.png' style="height: 400px;"/>
 
