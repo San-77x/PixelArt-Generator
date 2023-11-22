@@ -20,7 +20,7 @@ You can save your pixel art images to your computer by clicking on the "Save" bu
 
 ## Contributing
 
-I am always looking for ways to improve the Pixelart generator. If you have any suggestions, please feel free to create an issue on GitHub. You can also contribute to the code by creating a pull request.
+I am always looking for ways to improve the Pixelart generator. If you have any suggestions, please feel free to create an issue on GitHub. You can also contribute to the code by creating a pull request. 
 
 ## License
 
